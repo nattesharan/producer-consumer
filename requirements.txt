@@ -1,0 +1,4 @@
+amqp==5.2.0
+kombu==5.4.0
+typing_extensions==4.12.2
+vine==5.1.0
